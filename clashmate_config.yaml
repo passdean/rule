@@ -8,27 +8,8 @@ proxy-providers:
       url: https://www.gstatic.com/generate_204
       interval: 300
     proxy: 全球直连
-    url: "https://subdepth.botta.monster/api/v1/client/subscribe?token=e5b481cc686f775848564c63b0940d96" 
+    url: "https://xxx.xxx.xom" 
 
-  hongxingdl:
-    type: http
-    interval: 43200
-    health-check:
-      enable: true
-      url: https://www.gstatic.com/generate_204
-      interval: 300
-    proxy: 全球直连
-    url: "https://hongxingdl.love/hxyunvip?token=e80df89fbc2e79d071d5c7c10ebf169b"  
-
-  fishmix.vpn:
-    type: http
-    interval: 43200
-    health-check:
-      enable: true
-      url: https://www.gstatic.com/generate_204
-      interval: 300
-    proxy: 全球直连
-    url: "https://45.150.131.26/api/v1/client/subscribe?token=98eb61d47ed0b7b7f59f715a33fb5087" 
       
 
 # 全局配置
