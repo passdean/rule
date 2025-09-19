@@ -1,4 +1,5 @@
 config_android.json适用于IOS的iPhone手机和Android手机,配置文件不能单独使用,需要docker安装sub-store进行二次转换.
+
 substore搭建命令:
 
 docker run -it -d \
