@@ -1,3 +1,4 @@
+2025年9月singbox客户端  IOS版本只有1.11版还没有更新到1.12版，iPhone手机适配此配置文件。Android手机版已经可以更新到1.12，1.12版也可以使用此版本配置文件。
 config_android.json适用于IOS的iPhone手机和Android手机,配置文件不能单独使用,需要docker安装sub-store进行二次转换.
 
 substore搭建命令:
@@ -18,7 +19,7 @@ xream/sub-store
 
 或者域名访问
 
-```https://sub.guguwangluo.win?api=https://sub.guguwangluo.win/CKg3abstVnOeRpm1aB5G```
+```https://sub.gogotest.org?api=https://sub.gogotest.org/CKg3abstVnOeRpm1aB5G```
 
 注意修改成自己的ip或者反代域名和相应的密匙
 
